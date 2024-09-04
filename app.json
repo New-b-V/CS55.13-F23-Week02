@@ -1,18 +1,18 @@
 [
     {
-        "firstname":"Fred",
+        "firstname":"School",
         "link":"https://www.santarosa.edu"
     },
     {
-        "firstname":"Jane",
+        "firstname":"Communications",
         "link":"https://www.apple.com"
     },
     {
-        "firstname":"Mary",
+        "firstname":"Coding",
         "link":"https://www.w3schools.com"
     },
     {
-        "firstname":"MDN Sammy",
+        "firstname":"Developer Stuff",
         "link":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers"
     }
 ]
